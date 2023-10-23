@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Paulius#6441]([https://dcbadge.vercel.app/api/shield/836512408524029953]))
+![Paulius#6441](https://dcbadge.vercel.app/api/shield/836512408524029953)
 
 <!--  **paulius-bulotas/paulius-bulotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
