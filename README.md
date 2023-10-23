@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Paulius#6441](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+
 <!--  **paulius-bulotas/paulius-bulotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on with few projects. And much using own servers.
