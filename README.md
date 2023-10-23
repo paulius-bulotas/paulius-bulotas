@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**paulius-bulotas/paulius-bulotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  **paulius-bulotas/paulius-bulotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on with few projects. And much using own servers.
 - 🌱 I’m currently learning C++, NodeJS, Python, JavaScript, PHP, C#.
