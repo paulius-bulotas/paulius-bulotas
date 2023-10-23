@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![Paulius#6441](https://dcbadge.vercel.app/api/shield/836512408524029953)
-
 <!--  **paulius-bulotas/paulius-bulotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+
+<a href="https://about.nefbook.com/"><img src="https://rekvizitai.vz.lt/photos/nefbook-937.jpg" width="100" height="100"></a>
 
 - 🔭 I’m currently working on with few projects. And much using own servers.
 - 🌱 I’m currently learning `C++, NodeJS, Python, JavaScript, PHP, C# `.
