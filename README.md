@@ -1,7 +1,9 @@
 ### Hello World !
 <!--  **paulius-bulotas/paulius-bulotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <br>
-<a href="https://about.nefbook.com/"> <img src="https://github.com/paulius-bulotas/paulius-bulotas/assets/70526727/a1a557fa-2eac-496e-9abc-2df467a579d7" alt="nefbook"> </a>
+<a href="https://about.nefbook.com/"> <img src="https://github.com/paulius-bulotas/paulius-bulotas/assets/70526727/cdad4be4-0c51-4737-8a22-24a7b9d763ce" alt="nefbook"> </a>
+
+
 <br>
 
 - 🔭 I’m currently working on few projects.
