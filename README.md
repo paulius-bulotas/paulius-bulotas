@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on few projects.
 - 🌱 I’m currently learning Actively expanding proficiency in a diverse array of programming languages including `C++, NodeJS, Python, JavaScript, PHP` and `C#` to enhance project versatility and effectiveness.
-- 👯 I’m looking to collaborate on [Nefbook](https://www.about.nefbook.com).
+- 👯 I’m looking to collaborate on [Availane](https://www.about.availane.com).
 - 🤔 I’m seeking assistance Eager to connect with individuals proficient in server management and software development to optimize infrastructure and streamline operations.
-- 📫 How to reach me: `paulius@nefbook.com` to discuss potential collaborations or share insights.
+- 📫 How to reach me: `paulius@availane.com` to discuss potential collaborations or share insights.
 - ⚡ Fun fact: `console.log("Hello World!");`
